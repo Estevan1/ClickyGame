@@ -4,7 +4,7 @@ import Header from "./components/header";
 import Main from "./components/main";
 import Footer from "./components/footer";
 import Image from "./components/image";
-import Img from "./components/img.json"
+import Img from "./components/image.json"
 //image imports (since I'm not using a server)
 import android18 from "./images/android18.png"
 import beerus from "./images/beerus.png"
