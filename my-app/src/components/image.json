@@ -1,0 +1,48 @@
+[{
+    "name": "vegeta",
+    "url": "./images/vegeta.png"
+  },
+  {
+    "name": "zamasu",
+    "url": "./images/zamasu.png"
+  },
+  {
+    "name": "android18",
+    "url": "./images/android18.png"
+  },
+  {
+    "name": "beerus",
+    "url": "./images/beerus.png"
+  },
+  {
+    "name": "cell",
+    "url": "./images/cell.jpg"
+  },
+  {
+    "name": "frieza",
+    "url": "./images/frieza.png"
+  },
+  {
+    "name": "gohan",
+    "url": "./images/gohan.jpg"
+  },
+  {
+    "name": "Goku",
+    "url": "./images/Goku.png"
+  },
+  {
+    "name": "krillin",
+    "url": "./images/krillin.png"
+  },
+  {
+    "name": "majinBuu",
+    "url": "./images/majinBuu.png"
+  },
+  {
+    "name": "piccolo",
+    "url": "./images/picollo.png"
+  },
+  {
+    "name": "trunks",
+    "url": "./images/trunks.png"
+  }]
